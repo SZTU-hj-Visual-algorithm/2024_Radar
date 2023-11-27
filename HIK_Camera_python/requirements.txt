@@ -1,0 +1,5 @@
+# 配置脚本
+# Usage: pip install -r requirements.txt
+numpy>=1.18.5
+opencv-python>=4.5.5
+
